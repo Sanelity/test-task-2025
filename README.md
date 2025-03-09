@@ -22,7 +22,7 @@ Follow these steps to install and run the project locally:
 
 3. **Run the project in development mode**:
    ```bash
-    npm run dev
+   npm run dev
 
 After running, the project will be available at http://localhost:5173 (or another port displayed in the console).
 
@@ -30,3 +30,6 @@ After running, the project will be available at http://localhost:5173 (or anothe
 -  **ReactJS**
 -  **React Bootstrap**
 -  **CSS (custom styles for table, scrolling, animations)**
+
+Made by Maxim Kravals
+Contact +37120066586 | slaiderx55@gmail.com
