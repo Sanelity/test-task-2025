@@ -1,0 +1,15 @@
+.description-collapsed {
+    text-overflow: ellipsis;
+    max-height: 5rem;
+    overflow: hidden;
+    transition: max-height 1s ease-in-out;
+  }
+  
+  .description-expanded {
+    max-height: 1000px;
+    overflow: hidden;
+  }
+  
+  td:hover .description-collapsed {
+    max-height: 1000px;
+  }

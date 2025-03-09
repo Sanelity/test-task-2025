@@ -1,0 +1,6 @@
+.selector{
+    display: flex;
+    max-width: 100%;
+    width: auto;
+    justify-content: space-between;
+}

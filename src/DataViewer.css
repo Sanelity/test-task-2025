@@ -1,0 +1,16 @@
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.controls{
+    margin: 20px;
+}
+
+.mode{
+    margin-top: 8px;
+    display: flex;
+    align-items: center;
+
+}

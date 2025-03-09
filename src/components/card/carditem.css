@@ -1,0 +1,9 @@
+.cardimg{
+    image-rendering: crisp-edges;
+    -ms-interpolation-mode: nearest-neighbor;
+    width: fit-content;
+}
+.card{
+    min-width: 16rem;
+    max-width: 48rem;
+}
